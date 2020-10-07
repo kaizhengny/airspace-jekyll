@@ -66,44 +66,44 @@ px      68    160    252    344    436    528    620    712    */
 -----------------------------------------------*/
   /*=============================================*/
   /*---------------------------------------------
-					Work Start 
+					Project Start 
 -----------------------------------------------*/
   /*--
 	slider-work Start 
 --*/
-  #slider-work .block h1 {
+  #slider-project .block h1 {
     font-size: 28px;
   }
-  #slider-work .block p {
+  #slider-project .block p {
     font-size: 15px;
   }
   /*--
 	portfolio Start 
 --*/
-  #portfolio-work .block .portfolio-manu {
+  #portfolio-project .block .portfolio-manu {
     padding-left: 0px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading {
+  #portfolio-project .block .portfolio-contant ul li a .img-heading {
     padding: 5px 0 5px 13px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
+  #portfolio-project .block .portfolio-contant ul li a .img-heading h2 {
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading p {
+  #portfolio-project .block .portfolio-contant ul li a .img-heading p {
     font-size: 11px;
     line-height: 20px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay {
+  #portfolio-project .block .portfolio-contant ul li a .overlay {
     padding-left: 15px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay h2 {
+  #portfolio-project .block .portfolio-contant ul li a .overlay h2 {
     padding-top: 30px;
     padding-bottom: 15px;
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay p {
+  #portfolio-project .block .portfolio-contant ul li a .overlay p {
     font-size: 11px;
     line-height: 20px;
     padding-top: 15px;
@@ -111,15 +111,15 @@ px      68    160    252    344    436    528    620    712    */
   /*--
 	wrapper Start 
 --*/
-  #wrapper-work ul li .items-text {
+  #wrapper-project ul li .items-text {
     padding-top: 0;
     padding-left: 25px;
   }
-  #wrapper-work ul li .items-text h2 {
+  #wrapper-project ul li .items-text h2 {
     padding-bottom: 10px;
     padding-top: 40px;
   }
-  #wrapper-work ul li .items-text p {
+  #wrapper-project ul li .items-text p {
     font-size: 14px;
     line-height: 20px;
     padding-right: 30px;
@@ -127,11 +127,11 @@ px      68    160    252    344    436    528    620    712    */
   /*--
 	features Start 
 --*/
-  #features-work .block ul li {
+  #features-project .block ul li {
     width: 49%;
   }
   /*---------------------------------------------
-					Work close 
+					Project close 
 -----------------------------------------------*/
   /*=============================================*/
   /*---------------------------------------------
@@ -202,12 +202,12 @@ px      68    160    252    */
     width: 100%;
   }
   /*--
-	service Start 
+	about Start 
 --*/
-  #service {
+  #about {
     padding-top: 100px;
   }
-  #service .thumbnail {
+  #about .thumbnail {
     padding-bottom: 70px;
   }
   /*--
@@ -250,56 +250,56 @@ px      68    160    252    */
 -----------------------------------------------*/
   /*=============================================*/
   /*---------------------------------------------
-					Work Start 
+					Project Start 
 -----------------------------------------------*/
-  #slider-work {
+  #slider-project {
     padding-top: 100px;
     padding-bottom: 100px;
   }
-  #slider-work .block {
+  #slider-project .block {
     padding-left: 0px;
   }
-  #slider-work .block h1 {
+  #slider-project .block h1 {
     font-size: 20px;
   }
-  #slider-work .block p {
+  #slider-project .block p {
     font-size: 11px;
     line-height: 25px;
   }
   /*--
 	portfolio Start 
 --*/
-  #portfolio-work .block .portfolio-manu {
+  #portfolio-project .block .portfolio-manu {
     padding-left: 0px;
     text-align: center;
   }
-  #portfolio-work .block .portfolio-manu ul li {
+  #portfolio-project .block .portfolio-manu ul li {
     padding: 0 8px;
   }
-  #portfolio-work .block .portfolio-contant ul li {
+  #portfolio-project .block .portfolio-contant ul li {
     width: 100%;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading {
+  #portfolio-project .block .portfolio-contant ul li a .img-heading {
     padding: 5px 0 5px 13px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
+  #portfolio-project .block .portfolio-contant ul li a .img-heading h2 {
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading p {
+  #portfolio-project .block .portfolio-contant ul li a .img-heading p {
     font-size: 11px;
     line-height: 20px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay {
+  #portfolio-project .block .portfolio-contant ul li a .overlay {
     padding-left: 15px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay h2 {
+  #portfolio-project .block .portfolio-contant ul li a .overlay h2 {
     padding-top: 65px;
     padding-bottom: 15px;
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay p {
+  #portfolio-project .block .portfolio-contant ul li a .overlay p {
     font-size: 11px;
     line-height: 20px;
     padding-top: 15px;
@@ -308,21 +308,21 @@ px      68    160    252    */
   /*--
 	wrapper Start 
 --*/
-  #wrapper-work ul li {
+  #wrapper-project ul li {
     float: none;
     width: 100%;
   }
-  #wrapper-work ul li .items-text {
+  #wrapper-project ul li .items-text {
     padding-left: 15px;
     padding-top: 30px;
   }
-  #wrapper-work ul li .items-text h2 {
+  #wrapper-project ul li .items-text h2 {
     padding-top: 10px;
     padding-bottom: 15px;
     font-size: 20px;
     line-height: 25px;
   }
-  #wrapper-work ul li .items-text p {
+  #wrapper-project ul li .items-text p {
     font-size: 11px;
     line-height: 20px;
     padding-top: 15px;
@@ -330,12 +330,12 @@ px      68    160    252    */
   /*--
 	features Start 
 --*/
-  #features-work .block ul li {
+  #features-project .block ul li {
     display: block;
     width: 100%;
   }
   /*---------------------------------------------
-					Work close 
+					Project close 
 -----------------------------------------------*/
   /*=============================================*/
   /*---------------------------------------------
