@@ -66,25 +66,25 @@ a:active {
 --*/
 header {
   background: #fff;
-  padding: 20px 0;
+  padding: 0px 0;
 }
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
 }
 header .navbar-brand {
-  padding-top: 5px;
+  padding-top: 15px;
 }
 header .navbar-default {
   background: none;
   border: 0px;
 }
 header .navbar-default .navbar-nav {
-  padding-top: 10px;
+  padding-top: 5px;
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
-  padding: 10px 26px;
+  padding: 15px 26px;
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
@@ -101,7 +101,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 180px 0 250px 0;
   position: relative;
 }
 #slider:before {
