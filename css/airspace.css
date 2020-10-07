@@ -113,7 +113,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #6b6b6f9e, #4a4e4ec9);
   opacity: 0.8;
 }
 #slider .block {
@@ -121,7 +121,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-weight: 200;
   font-size: 45px;
   line-height: 60px;
   letter-spacing: 10px;
@@ -352,10 +352,10 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 0px 50px;
 }
 /*---------------------------------------------
-					Work Start
+					Project Start
 -----------------------------------------------*/
 /*--
-	Slider-work Start
+	Slider-project Start
 --*/
 #global-header {
   background: url("../img/slider-bg.jpg") no-repeat;
@@ -374,7 +374,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left, #6b6b6f9e, #4a4e4ec9 70%);
   opacity: 0.8;
 }
 #global-header .block {
@@ -398,22 +398,22 @@ font header .navbar-default .navbar-nav li a:hover {
   word-spacing: 3px;
 }
 /*--
-	portfolio-work Start
+	portfolio-project Start
 --*/
-#portfolio-work {
+#portfolio-project {
   overflow: hidden;
   padding: 80px 0;
 }
-#portfolio-work .block .portfolio-menu {
+#portfolio-project .block .portfolio-menu {
   padding-bottom: 30px;
   text-align: center;
 }
-#portfolio-work .block .portfolio-menu ul {
+#portfolio-project .block .portfolio-menu ul {
   border: 1px solid #999999;
   display: inline-block;
   margin-bottom: 40px;
 }
-#portfolio-work .block .portfolio-menu ul li {
+#portfolio-project .block .portfolio-menu ul li {
   display: inline-block;
   padding: 0px 25px;
   cursor: pointer;
@@ -424,11 +424,11 @@ font header .navbar-default .navbar-nav li a:hover {
   text-transform: capitalize;
   position: relative;
 }
-#portfolio-work .block .portfolio-menu ul .active {
+#portfolio-project .block .portfolio-menu ul .active {
   color: #655E7A;
   position: relative;
 }
-#portfolio-work .block .portfolio-menu ul .active:before {
+#portfolio-project .block .portfolio-menu ul .active:before {
   content: "\f0d7";
   position: absolute;
   font-family: 'FontAwesome';
@@ -447,7 +447,7 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-#portfolio-work .block .portfolio-menu ul li:hover:before {
+#portfolio-project .block .portfolio-menu ul li:hover:before {
   content: "\f0d7";
   position: absolute;
   font-family: 'FontAwesome';
@@ -466,17 +466,17 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-#portfolio-work .block .portfolio-contant ul li {
+#portfolio-project .block .portfolio-contant ul li {
   float: left;
   width: 32.22%;
   overflow: hidden;
   margin: 6px;
   position: relative;
 }
-#portfolio-work .block .portfolio-contant ul li:hover .overly {
+#portfolio-project .block .portfolio-contant ul li:hover .overly {
   opacity: 1;
 }
-#portfolio-work .block .portfolio-contant ul li:hover .position-center {
+#portfolio-project .block .portfolio-contant ul li:hover .position-center {
   position: absolute;
   top: 50%;
   -webkit-transform: translate(0%, -50%);
@@ -484,28 +484,28 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
 }
-#portfolio-work .block .portfolio-contant ul li a {
+#portfolio-project .block .portfolio-contant ul li a {
   display: block;
   color: #fff;
 }
-#portfolio-work .block .portfolio-contant ul li a h2 {
+#portfolio-project .block .portfolio-contant ul li a h2 {
   font-size: 22px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-#portfolio-work .block .portfolio-contant ul li a p {
+#portfolio-project .block .portfolio-contant ul li a p {
   font-size: 15px;
 }
-#portfolio-work .block .portfolio-contant ul li a span {
+#portfolio-project .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
   color: #655E7A;
 }
-#portfolio-work .block .portfolio-contant ul img {
+#portfolio-project .block .portfolio-contant ul img {
   width: 100%;
   height: auto;
 }
-#portfolio-work .block .portfolio-contant .overly {
+#portfolio-project .block .portfolio-contant .overly {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -518,7 +518,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: .3s all;
   text-align: center;
 }
-#portfolio-work .block .portfolio-contant .position-center {
+#portfolio-project .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
   left: 10%;
@@ -530,26 +530,26 @@ font header .navbar-default .navbar-nav li a:hover {
   -o-transition: .5s all;
   transition: .5s all;
 }
-#portfolio-work .block .mix {
+#portfolio-project .block .mix {
   display: none;
 }
 /*--
-	wrapper-work Start
+	wrapper-project Start
 --*/
-#wrapper-work {
+#wrapper-project {
   overflow: hidden;
   padding-top: 100px;
 }
-#wrapper-work ul li {
+#wrapper-project ul li {
   width: 50%;
   float: left;
   position: relative;
 }
-#wrapper-work ul li img {
+#wrapper-project ul li img {
   width: 100%;
   height: 100%;
 }
-#wrapper-work ul li .items-text {
+#wrapper-project ul li .items-text {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -562,12 +562,12 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-left: 44px;
   padding-top: 140px;
 }
-#wrapper-work ul li .items-text h2 {
+#wrapper-project ul li .items-text h2 {
   padding-bottom: 28px;
   padding-top: 75px;
   position: relative;
 }
-#wrapper-work ul li .items-text h2:before {
+#wrapper-project ul li .items-text h2:before {
   content: "";
   position: absolute;
   left: 0;
@@ -576,7 +576,7 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 3px;
   background: #fff;
 }
-#wrapper-work ul li .items-text p {
+#wrapper-project ul li .items-text p {
   padding-top: 30px;
   font-size: 16px;
   line-height: 27px;
@@ -584,20 +584,269 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-right: 80px;
 }
 /*--
-	features-work Start
+	features-project Start
 --*/
-#features-work {
+#features-project {
   padding-top: 50px;
   padding-bottom: 75px;
 }
-#features-work .block ul li {
+#features-project .block ul li {
   width: 19%;
   text-align: center;
   display: inline-block;
   padding: 40px 0px;
 }
 /*---------------------------------------------
-					Work Close
+					Project Close
+-----------------------------------------------*/
+/*=============================================*/
+/*---------------------------------------------
+					About Start
+-----------------------------------------------*/
+/*--
+	Slider-about Start
+--*/
+#global-header {
+  background: url("../img/slider-bg.jpg") no-repeat;
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 107px;
+  position: relative;
+  background-attachment: fixed;
+}
+#global-header:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #6b6b6f9e, #4a4e4ec9 70%);
+  opacity: 0.8;
+}
+#global-header .block {
+  color: #E3E3E4;
+  margin: 0 auto;
+  padding-left: 90px;
+  text-align: center;
+}
+#global-header .block h1 {
+  font-weight: 100;
+  font-size: 45px;
+  letter-spacing: 6px;
+  padding-bottom: 15px;
+  margin-top: 0;
+  text-transform: capitalize;
+}
+#global-header .block p {
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+/*--
+	hobby-about Start
+--*/
+#hobby-about {
+  overflow: hidden;
+  padding: 80px 0;
+}
+#hobby-about .block .portfolio-menu {
+  padding-bottom: 30px;
+  text-align: center;
+}
+#hobby-about .block .portfolio-menu ul {
+  border: 1px solid #999999;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+#hobby-about .block .portfolio-menu ul li {
+  display: inline-block;
+  padding: 0px 25px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 40px;
+  font-weight: 600;
+  color: #333333;
+  text-transform: capitalize;
+  position: relative;
+}
+#hobby-about .block .portfolio-menu ul .active {
+  color: #655E7A;
+  position: relative;
+}
+#hobby-about .block .portfolio-menu ul .active:before {
+  content: "\f0d7";
+  position: absolute;
+  font-family: 'FontAwesome';
+  bottom: -18px;
+  font-size: 30px;
+  width: 20px;
+  left: 0px;
+  right: 0px;
+  top: 23px;
+  margin: 0 auto;
+  color: #fff;
+  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+#hobby-about .block .portfolio-menu ul li:hover:before {
+  content: "\f0d7";
+  position: absolute;
+  font-family: 'FontAwesome';
+  bottom: -18px;
+  font-size: 30px;
+  width: 20px;
+  left: 0px;
+  right: 0px;
+  top: 24px;
+  margin: 0 auto;
+  color: #fff;
+  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+#hobby-about .block .portfolio-contant ul li {
+  float: left;
+  width: 32.22%;
+  overflow: hidden;
+  margin: 6px;
+  position: relative;
+}
+#hobby-about .block .portfolio-contant ul li:hover .overly {
+  opacity: 1;
+}
+#hobby-about .block .portfolio-contant ul li:hover .position-center {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(0%, -50%);
+  -moz-transform: translate(0%, -50%);
+  -ms-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
+}
+#hobby-about .block .portfolio-contant ul li a {
+  display: block;
+  color: #fff;
+}
+#hobby-about .block .portfolio-contant ul li a h2 {
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#hobby-about .block .portfolio-contant ul li a p {
+  font-size: 15px;
+}
+#hobby-about .block .portfolio-contant ul li a span {
+  font-style: italic;
+  font-size: 13px;
+  color: #655E7A;
+}
+#hobby-about .block .portfolio-contant ul img {
+  width: 100%;
+  height: auto;
+}
+#hobby-about .block .portfolio-contant .overly {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+  -webkit-transition: .3s all;
+  -o-transition: .3s all;
+  transition: .3s all;
+  text-align: center;
+}
+#hobby-about .block .portfolio-contant .position-center {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  -webkit-transform: translate(0%, 50%);
+  -moz-transform: translate(0%, 50%);
+  -ms-transform: translate(0%, 50%);
+  transform: translate(0%, 50%);
+  -webkit-transition: .5s all;
+  -o-transition: .5s all;
+  transition: .5s all;
+}
+#hobby-about .block .mix {
+  display: none;
+}
+/*--
+	wrapper-about Start
+--*/
+#wrapper-about {
+  overflow: hidden;
+  padding-top: 100px;
+}
+#wrapper-about ul li {
+  width: 50%;
+  float: left;
+  position: relative;
+}
+#wrapper-about ul li img {
+  width: 100%;
+  height: 100%;
+}
+#wrapper-about ul li .items-text {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6);
+  padding-left: 44px;
+  padding-top: 140px;
+}
+#wrapper-about ul li .items-text h2 {
+  padding-bottom: 28px;
+  padding-top: 75px;
+  position: relative;
+}
+#wrapper-about ul li .items-text h2:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 75px;
+  height: 3px;
+  background: #fff;
+}
+#wrapper-about ul li .items-text p {
+  padding-top: 30px;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 300;
+  padding-right: 80px;
+}
+/*--
+	features-about Start
+--*/
+#features-about {
+  padding-top: 50px;
+  padding-bottom: 75px;
+}
+#features-about .block ul li {
+  width: 19%;
+  text-align: center;
+  display: inline-block;
+  padding: 40px 0px;
+}
+/*---------------------------------------------
+					About Close
 -----------------------------------------------*/
 /*=============================================*/
 /*---------------------------------------------
@@ -622,7 +871,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left, 6b6b6f9e, #4a4e4ec9 70%);
   opacity: 0.8;
 }
 #slider-contact .block {
