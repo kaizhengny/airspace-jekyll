@@ -1057,3 +1057,47 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+/*=============================================*/
+/*---------------------------------------------
+					 Project Page Start
+-----------------------------------------------*/
+/*--
+	Project details Start
+--*/
+#project_details {
+  padding: 20px 0 ;
+}
+#project_details .block h1 {
+  padding-top: 15px;
+  padding-bottom: 50px;
+  line-height: 27px;
+  margin: 0;
+}
+#project_details .block p {
+  color: #7B7B7B;
+  padding-top: 0px;
+  padding-left: 40px;
+}
+#project_details .block img {
+  padding-left: px;
+  width: 100%;
+}
+#project_details .section-title {
+  margin-bottom: 0px;
+  padding-left: 40px;
+}
+#project_details .story {
+  margin-bottom: 0px;
+  padding-top: 40px;
+}
+#project_details .table {
+  margin-bottom: 0px;
+  padding-left: 40px;
+}
+#project_details .table tr {
+  padding-top: 50px;
+}
+
+/*---------------------------------------------
+					 Project Page Close
+-----------------------------------------------*/
