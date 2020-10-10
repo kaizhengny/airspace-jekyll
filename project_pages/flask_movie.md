@@ -6,7 +6,7 @@ author: Kai Zheng
 date: April 2020
 technology: "Flask, REST API, Docker, PostgreSQL, Auth0"
 github: "https://github.com/kaizhengny/Udacity-FSND-Capstone-Project"
-domain: "https://capstone-kaiz.herokuapp.com/movies"
+domain: "https://capstone-kaiz.herokuapp.com/"
 ---
 
 This is a casting agency app with movies and actors data. It is hosted on Heroku with below domain:
@@ -51,6 +51,7 @@ This is a casting agency app with movies and actors data. It is hosted on Heroku
         Token: ****
 
 **API Routes:**
+
     GET '/movies' -Returns a list of all movies in the database
 
     GET '/actors' -Returns a list of all actors in the database
